@@ -1,0 +1,35 @@
+{
+  "name": "tech-interview-practice",
+  "version": "1.0.0",
+  "description": "Repository to practice technical questions and coding challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run:two-sum": "node algorithms/two_sum.js",
+    "run:reverse-string": "node algorithms/reverse_string.js",
+    "run:maximum-subarray": "node algorithms/maximum_subarray.js",
+    "run:merge-sorted-lists": "node algorithms/merge_sorted_lists.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashutoshmittal2309/tech-interview-practice.git"
+  },
+  "keywords": [
+    "algorithms",
+    "data-structures",
+    "coding-challenges",
+    "javascript",
+    "nodejs",
+    "technical-interviews",
+    "programming"
+  ],
+  "author": "ashutoshmittal2309",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashutoshmittal2309/tech-interview-practice/issues"
+  },
+  "homepage": "https://github.com/ashutoshmittal2309/tech-interview-practice#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
